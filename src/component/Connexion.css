@@ -1,0 +1,164 @@
+.login-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+  
+.form-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+h2 {
+  color:#8a495f;
+ 
+
+}
+  
+label {
+  width: 100px;
+  color: #a2818d;
+  font-weight:bold;
+  font-size: large;
+}
+  
+input[type="email"],
+input[type="password"] {
+  /*height: 30px;*/
+  border-radius: 5px;
+  /*border: 2px solid #e7daaf;
+  padding: 5px;
+  /*width: 300px;*/
+}
+  
+button {
+  padding: 10px;
+  color: #ffffff;
+  background-color: #c5aab1;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  /*width: 100%;*/
+  margin-top: 10px;
+
+  
+}
+  
+button:hover {
+  background-color: #e4b51a;
+}
+  
+.label-inline {
+  display: inline-block;
+  width: 120px; /* ajustez la largeur selon vos besoins */
+  vertical-align: middle;
+}
+.form-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.form-row label {
+  flex: 0 0 120px; /* ajustez la largeur du label selon vos besoins */
+  margin-right: 10px; /* ajustez la marge entre le label et le champ d'entrée selon vos besoins */
+}
+
+.form-row input[type="email"],
+.form-row input[type="password"] {
+  flex: 1;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.my-image {
+  width: 100px; /* Définissez la largeur souhaitée, par exemple 50% */
+  height: 100px; /* Maintenez le ratio d'aspect en ajustant automatiquement la hauteur */
+  border-radius: 50%; /* Définissez le rayon de bordure pour créer un cercle */
+  overflow: hidden;
+  margin-top: 20px;
+}
+
+
+
+#search{
+  /*float:left;*/
+    width:40%;
+    /*margin-top:20px;*/
+
+  
+  
+}
+#lien  {
+  /*float:left;*/
+    width:25%;
+    
+}
+
+input[type="search"]{
+  border-radius: 5px;
+  border: 2px solid #e7daaf;
+  width: 100%;
+  height: 40px;
+  margin-top: 50px;
+  
+}
+nav{
+ 
+  font-weight:bold;
+  margin-top: 50px;
+  
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  
+}
+  
+nav ul li {
+  margin-right: 50px;
+ 
+  
+}
+  
+nav ul li a {
+  text-decoration: none;
+  color: #8a495f;
+  margin-top: 100px;
+
+}
+ul li a {
+  /*float: left;*/
+  color: #dd0ef0;
+}
+h3{
+  font-size:x-large;
+  color: #8a495f;
+  margin-left: 20px;
+  margin-top: 50px;
+  
+  /*text-align: left;*/
+  
+}
+header{
+  background-color:#a2818d;
+  width: 100%;
+  height: 115px; 
+  margin-top: 15px;
+  
+}
+
+.image {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-top: 35px;
+
+}
+.block
+{
+  float: left;
+}

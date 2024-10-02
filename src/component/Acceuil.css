@@ -1,0 +1,178 @@
+.container {
+  width: 100%;
+}
+  
+
+#société{
+  /*float:left;*/
+	width:20%;
+	/*margin:2px;*/
+  
+  
+}
+#search{
+  /*float:left;*/
+	width:40%;
+	
+
+  
+  
+}
+#lien  {
+  
+	width:25%;
+	
+}
+
+input[type="search"]{
+  border-radius: 5px;
+  border: 2px solid #e7daaf;
+  width: 100%;
+  height: 40px;
+  margin-top: 50px;
+  
+  
+}
+nav{
+ 
+  font-weight:bold;
+  margin-top: 50px;
+  
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  
+}
+  
+nav ul li {
+  margin-right: 50px;
+ 
+  
+}
+  
+nav ul li a {
+  text-decoration: none;
+  color: #8a495f;
+  margin-top: 100px;
+
+}
+
+#catégorie{
+  float:left;
+	width:20%;
+  margin-left: 80px;
+  color:#793aec ;
+ 
+}
+
+#affiche{
+  margin-top: 80px;
+  float:right;
+	width:70%;
+  color: #793aec;
+  
+}
+ 
+#foot {
+  height: 230px;
+  margin-top: 1000px;
+  background-color: black;
+  color: #e7daaf;
+  
+}
+#footer-left{
+  float:left;
+	width:25%;
+  text-align: left;
+  margin-left: 20px;
+  
+} 
+#footer-right1{
+  float:left;
+	width:25%;
+  margin-top: 70px;
+}
+#footer-right{
+  float:left;
+	width:24%;
+  
+} 
+#footer-center{
+  float:left;
+	width:24%;
+  
+} 
+#footer-bottom{
+  
+	width:70%;
+ text-align: center;
+  
+} 
+ul li a {
+  /*float: left;*/
+  color: #dd0ef0;
+ 
+}
+h3{
+  font-size:x-large;
+  color: #8a495f;
+  margin-left: 20px;
+  margin-top: 50px;
+  
+  /*text-align: left;*/
+  
+}
+#h2{
+  font-size:x-large;
+  color: #a2818d;
+  text-align: center;
+  margin-bottom: 40px;
+  float:right;
+ 
+}
+.h{
+  font-size:x-large;
+  color: #a2818d;
+  text-align: center;
+  margin-left: 20px;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+ 
+}
+th, td{
+  background-color:#fff;
+  width: 100%;
+  border-color: #fff;
+  font-size: x-large;
+  color: #8a495f; 
+}
+header{
+  background-color:#a2818d;
+  width: 100%;
+  height: 115px; 
+  margin-top: 0px;
+
+  
+}
+
+.image {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-top: 35px;
+  margin-right: 150px;
+
+}
+.block
+{
+  float: left;
+  
+}
+
+
+
+
+
